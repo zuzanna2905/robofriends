@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<jrockbands>
+	<band playedInPoland='no'>
+		<bandname>Dir En Grey</bandname>
+		<year>1997</year>
+		<active>YES</active>
+		<member>
+			<firstname>Grzesiek</firstname>
+			<lastname>Bibułka</lastname>
+			<gender>male</gender>
+			<age>30</age>
+			<look>
+				<hair>Bald</hair>
+				<height>160</height>
+			</look>
+		</member>
+		<member>
+			<firstname>Grzesiek</firstname>
+			<lastname>Bibułka</lastname>
+			<gender>male</gender>
+			<age>30</age>
+			<look>
+				<hair>Bald</hair>
+				<height>160</height>
+			</look>
+		</member>
+		<member>
+			<firstname>Grzesiek</firstname>
+			<lastname>Bibułka</lastname>
+			<gender>male</gender>
+			<age>30</age>
+			<look>
+				<hair>Bald</hair>
+				<height>160</height>
+			</look>
+		</member>
+		<member>
+			<firstname>Grzesiek</firstname>
+			<lastname>Bibułka</lastname>
+			<gender>male</gender>
+			<age>30</age>
+			<look>
+				<hair>Bald</hair>
+				<height>160</height>
+			</look>
+		</member>
+		<member>
+			<firstname>Grzesiek</firstname>
+			<lastname>Bibułka</lastname>
+			<gender>male</gender>
+			<age>30</age>
+			<look>
+				<hair>Bald</hair>
+				<height>160</height>
+			</look>
+		</member>
+		<album count='10'>
+			<releasedate>2018/07/07</releasedate>
+			<albumname>Bączek</albumname>
+		</album>
+		<album count='10'>
+			<releasedate>2018/07/07</releasedate>
+			<albumname>Bączek</albumname>
+		</album>
+		<album count='10'>
+			<releasedate>2018/07/07</releasedate>
+			<albumname>Bączek</albumname>
+		</album>
+		<socialMedia>
+			<link></link>
+			<link></link>
+		</socialMedia>
+	</band>
+</jrockbands>
